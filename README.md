@@ -1,1 +1,1 @@
-# cs3630_react_router
+# CS 3030 – 27 Feb 2017
